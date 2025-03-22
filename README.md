@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi! I’m a junior backend developer, passionate about the Python programming language. Currently, I’m working on projects that help me strengthen my skills and continue growing in software development.<br><br>💻 My aspiration: I am passionate about software development and technology. I love constantly learning new tools and programming languages to create projects that provide value and practical solutions.<br><br>🌱 I’m always learning to take my knowledge to the next level, focused on writing clean, efficient, and functional code.<br><br>📈 I’m excited about the challenges and opportunities that lie ahead on this amazing tech journey!
 If you’d like to collaborate or just say hi, feel free to reach out!
-
+If you’d like to collaborate or just say hi, feel free to reach out!
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__pedroemilio__) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:30025647) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moralespedroemilio@gmail.com) 
 
