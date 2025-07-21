@@ -9,7 +9,8 @@
 If you’d like to collaborate or just say hi,feel free to reach out!<br>
 
 
-## 🌐 Socials:
+🌐 Socials <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__pedroemilio__) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/30025647/pedro-emilio) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moralespedroemilio@gmail.com) 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
