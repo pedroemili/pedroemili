@@ -8,7 +8,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxlMGN5YWF5MDNhcjg5YXQ2ZDBiemgyaWllODBlbnpyMnlnOGgzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h2IKxVBZmQTqUIsSKs/giphy.gif?raw=true" width = 250px></picture>
 👋 Hi! I’m a junior backend developer, passionate about the Python programming language. Currently, I’m working on projects that help me strengthen my skills and continue growing in software development.<br><br>💻 My aspiration: I am passionate about software development and technology. I love constantly learning new tools and programming languages to create projects that provide value and practical solutions.<br><br>🌱 I’m always learning to take my knowledge to the next level, focused on writing clean, efficient, and functional code.<br><br>📈 I’m excited about the challenges and opportunities that lie ahead on this amazing tech journey! 
 If you’d like to collaborate or just say hi,feel free to reach out!<br>
 
