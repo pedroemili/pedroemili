@@ -3,7 +3,12 @@
 👋 Hi! I’m a junior backend developer, passionate about the Python programming language. Currently, I’m working on projects that help me strengthen my skills and continue growing in software development.<br><br>💻 My aspiration: I am passionate about software development and technology. I love constantly learning new tools and programming languages to create projects that provide value and practical solutions.<br><br>🌱 I’m always learning to take my knowledge to the next level, focused on writing clean, efficient, and functional code.<br><br>📈 I’m excited about the challenges and opportunities that lie ahead on this amazing tech journey! 
 If you’d like to collaborate or just say hi,feel free to reach out!<br>
 
-
+<p align = "center">
+        <img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
+<p align = "center">
+        <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__pedroemilio__) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/30025647/pedro-emilio) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moralespedroemilio@gmail.com) 
 
