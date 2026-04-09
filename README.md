@@ -1,21 +1,16 @@
 
-<p align = "center">
-        <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
-### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+👋 Hi! I'm a junior full stack developer, passionate about building complete web solutions — from the server to the user interface.
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+Currently, I'm working on projects that help me strengthen both my frontend and backend skills and continue growing in software development.
 
+💻 My aspiration: I am passionate about software development and technology. I love constantly learning new tools, frameworks, and programming languages to create end-to-end projects that provide value and practical solutions — whether it's a REST API, a dynamic UI, or a complete web application
 
-<picture> <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxlMGN5YWF5MDNhcjg5YXQ2ZDBiemgyaWllODBlbnpyMnlnOGgzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h2IKxVBZmQTqUIsSKs/giphy.gif?raw=true" width = 250px></picture>
-<br>👋 Hi! I'm a junior full stack developer, passionate about building complete web solutions — from the server to the user interface. Currently, I'm working on projects that help me strengthen both my frontend and backend skills and continue growing in software development.💻 My aspiration: I am passionate about software development and technology.</br>
-<br>I love constantly learning new tools, frameworks, and programming languages to create end-to-end projects that provide value and practical solutions — whether it's a REST API, a dynamic UI, or a complete web application.</br>
-<br>🌱 I'm always learning to take my knowledge to the next level, focused on writing clean, efficient, and functional code across the entire stack.</br>
+🌱 I'm always learning to take my knowledge to the next level, focused on writing clean, efficient, and functional code across the entire stack.
 
-<br>📈 I'm excited about the challenges and opportunities that lie ahead on this amazing tech journey!
-If you'd like to collaborate or just say hi, feel free to reach out!</br>
-
+📈 I'm excited about the challenges and opportunities that lie ahead on this amazing tech journey!
+If you'd like to collaborate or just say hi, feel free to reach out!
 
 ### 🌐 Socials <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
